@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hi I'm Bay
 
-You can use the [editor on GitHub](https://github.com/Baydewey4/baydewey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Last year my roomate and I started an addiction that could be worse.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
